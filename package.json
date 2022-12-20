@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "linkifyjs-3.0.5": "npm:linkifyjs@^3.0.5",
+    "linkifyjs-4.0.2": "npm:linkifyjs@^4.0.2"
+  }
+}
